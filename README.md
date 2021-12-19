@@ -1,4 +1,4 @@
-# Indian-Demography-by-Religion [ongoing]
+# Indian Demography by Religion [ongoing]
 
 Work Done:
 1. Data Cleaning
